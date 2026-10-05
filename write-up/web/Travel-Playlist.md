@@ -1,0 +1,3 @@
+- solved by @sunshinetoyou
+- Path Traversal을 이용한 문제이다.
+- Flag: pascalCTF{4ll_1_d0_1s_tr4v3ll1nG_4r0und_th3_w0rld}
