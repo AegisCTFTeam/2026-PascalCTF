@@ -1,7 +1,7 @@
 
 - solved by @cooku222
   
-28개 단어 전부를 오라클로 암호화해서 `hex→word` 코드북 만들고, 마지막 Ciphertext 5개 블록을 역매핑해서 그대로 게싱하는 문제
+28개 단어 전부를 오라클로 암호화해서 `hex→word` 코드북 만들고, 마지막 Ciphertext 5개 블록을 역매핑해서 그대로 게싱하는 문제이다.
 ```
 Give me 4 words to encrypt or don't write anything to quit (max 16 chars): 
 Word 1: biocompatibility 
@@ -86,4 +86,4 @@ caef6a02eaa41b11f05bf75025b94665 → misunderstanding
 
 9cfc87ef4f5791483f52fac9598121cf → internationality
 
-마지막 프롬프트에서 게싱하라는 프롬프트가 나오고 위의 값을 순서대로 입력해주면 맞았다면서 플래그를 준다
+마지막 프롬프트에서 게싱하라는 프롬프트가 나오고 위의 값을 순서대로 입력해주면 맞았다면서 플래그를 제공해줍니다.
