@@ -1,0 +1,2 @@
+- solved by @cooku222
+- Flag: pascalctf{lattuca_fa_rima_con_suca}
