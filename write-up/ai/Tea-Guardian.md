@@ -1,0 +1,3 @@
+- solved by @lawence3713
+- 프롬프트에 teapot을 입력하면 플래그를 획득할 수 있다.
+- Flag: pascalCTF{Why_D1D_1t_g1V3_4w4y_my_t34!?}
